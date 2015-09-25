@@ -18,7 +18,9 @@ import android.widget.ImageView;
 //   Genymotion: Switch off camera
 //   Intellij IDEA: From menu select Tools/Android/"Enable ADB Integration" (should be unchecked)
 //   Genymotion: Switch on camera
-
+// References:
+//   https://www.airpair.com/android/android-camera-development (not simple enough)
+//   http://developer.android.com/training/camera/photobasics.html
 
 public class MainActivity extends ActionBarActivity {
 
